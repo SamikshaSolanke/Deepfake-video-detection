@@ -1,13 +1,12 @@
 # Deepfake Video Detection - CSI Codezilla
 
 <br>
-![Alt text](images/example.png)
 
 ## Useful Links
 - **GitHub Repository:** [github.com/SamikshaSolanke/Deepfake-video-detection-CSI-Codezilla](https://github.com/SamikshaSolanke/Deepfake-video-detection-CSI-Codezilla)
-- **Kaggle Dataset:** [https://www.kaggle.com/datasets/reubensuju/celeb-df-v2](https://www.kaggle.com/datasets/reubensuju/celeb-df-v2)
-- **Preprocessed Dataset:** [[https://drive.google.com/drive/folders/1s_WIcftTjf1MbsadQmcM7bGeMI73yVaI?usp=drive_link](https://drive.google.com/drive/folders/12kt5EH6h1dRInoBHCcVBKiJbW0vL4vi9?usp=sharing)]([https://drive.google.com/drive/folders/1s_WIcftTjf1MbsadQmcM7bGeMI73yVaI?usp=drive_link](https://drive.google.com/drive/folders/12kt5EH6h1dRInoBHCcVBKiJbW0vL4vi9?usp=sharing))
-- **CSV File:** [[https://drive.google.com/file/d/1teY_IySry9hDMChIL0Jjhi0d3cFNifKo/view?usp=drive_link]([https://drive.google.com/file/d/1-JnAA7dx_sHuhy0j5jnKpnmfBJOu3Qg1/view?usp=sharing)](https://drive.google.com/file/d/1teY_IySry9hDMChIL0Jjhi0d3cFNifKo/view?usp=drive_link](https://drive.google.com/file/d/1-JnAA7dx_sHuhy0j5jnKpnmfBJOu3Qg1/view?usp=sharing))
+- **Kaggle Dataset:** [kaggle.com/datasets/reubensuju/celeb-df-v2](https://www.kaggle.com/datasets/reubensuju/celeb-df-v2)
+- **Preprocessed Dataset:** [drive.google.com/drive/folders/1s_WIcftTjf1MbsadQmcM7bGeMI73yVaI?usp=drive_link](https://drive.google.com/drive/folders/12kt5EH6h1dRInoBHCcVBKiJbW0vL4vi9?usp=sharing)
+- **CSV File:** [github.com/SamikshaSolanke/Deepfake-video-detection-CSI-Codezilla](https://drive.google.com/file/d/1-JnAA7dx_sHuhy0j5jnKpnmfBJOu3Qg1/view?usp=sharing)
 
 <br>
 
@@ -28,3 +27,8 @@
 - **TensorFlow Lite:** Deployed the trained deepfake detection model in a mobile-compatible, lightweight format.
 - **FastAPI:** Backend framework for creating RESTful APIs.
 - **OpenCV:** Preprocessing video frames (e.g., extraction and resizing).
+
+<br>
+
+## Special Mention
+<p>I would like to thank Pi Labs AI for presenting us with the opportunity to tackle the deepfake detection problem statement as part of this hackathon. This challenge has been an incredible learning experience, allowing us to delve deeper into the complexities of deepfake technology and develop innovative solutions to address this critical issue. The guidance and resources provided by Pi Labs AI have been instrumental in shaping our approach and pushing the boundaries of our knowledge in AI and computer vision. We are grateful for the chance to work on a project with such real-world impact and look forward to contributing further to this domain</p>
