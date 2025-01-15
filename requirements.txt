@@ -1,0 +1,4 @@
+flask
+numpy
+opencv-python
+tensorflow  # or torch, depending on your model
