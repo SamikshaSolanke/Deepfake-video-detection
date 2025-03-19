@@ -7,7 +7,7 @@
    git clone https://github.com/SamikshaSolanke/Deepfake-video-detection.git
 2. Go to the main folder:
    ```bash
-   cd Deepfake-video-detection
+   cd Deepfake-video-detection-main
 3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
