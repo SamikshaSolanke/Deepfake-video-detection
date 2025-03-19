@@ -1,9 +1,25 @@
-# Deepfake Video Detection - CSI Codezilla
+# Deepfake Video Detection
 
+## Setup Instructions
+
+1. **Clone the GitHub repository** to your desired location:
+   ```bash
+   git clone https://github.com/SamikshaSolanke/Deepfake-video-detection.git
+2. Go to the main folder:
+   ```bash
+   cd Deepfake-video-detection
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the application:
+   ```bash
+   python app.py
+5. Click on the link which appears on the terminal/ cmd
+6. **To test the model, please upload the videos provided in test folder**
 <br>
 
 ## Useful Links
-- **GitHub Repository:** [github.com/SamikshaSolanke/Deepfake-video-detection-CSI-Codezilla](https://github.com/SamikshaSolanke/Deepfake-video-detection-CSI-Codezilla)
+- **GitHub Repository:** [github.com/SamikshaSolanke/Deepfake-video-detection](https://github.com/SamikshaSolanke/Deepfake-video-detection)
 - **Kaggle Dataset:** [kaggle.com/datasets/reubensuju/celeb-df-v2](https://www.kaggle.com/datasets/reubensuju/celeb-df-v2)
 - **Dataset we used:** [drive.google.com/drive/folders/1ZwyawT2beV9pVDZlNePAq4pcagByWPmj?usp=sharing](https://drive.google.com/drive/folders/1ZwyawT2beV9pVDZlNePAq4pcagByWPmj?usp=sharing)
 - **Pre-processed data(frames):** [drive.google.com/drive/folders/1bZBl5CgnfKwoial2eoUHwYlrxdwPyPHZ?usp=sharing](https://drive.google.com/drive/folders/1bZBl5CgnfKwoial2eoUHwYlrxdwPyPHZ?usp=sharing)
@@ -35,10 +51,3 @@
 
 ## Results
 ![Screenshot 2025-01-17 102818](https://github.com/user-attachments/assets/fd3d6c33-d2ae-4aba-9354-938651644cef)
-
-
-<br>
-
-
-## Special Mention
-<p>I would like to thank Pi Labs AI for presenting us with the opportunity to tackle the deepfake detection problem statement as part of this hackathon. This challenge has been an incredible learning experience, allowing us to delve deeper into the complexities of deepfake technology and develop innovative solutions to address this critical issue. The guidance and resources provided by Pi Labs AI have been instrumental in shaping our approach and pushing the boundaries of our knowledge in AI and computer vision. We are grateful for the chance to work on a project with such real-world impact and look forward to contributing further to this domain</p>
