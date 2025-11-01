@@ -39,7 +39,7 @@
 - **TensorFlow:** Framework for training the deepfake detection model.
 - **MobileNetV2:** The lightweight MobileNetV2 backbone ensures the model runs efficiently on mobile devices..
 - **TensorFlow Lite:** Deployed the trained deepfake detection model in a mobile-compatible, lightweight format.
-- **Flask:**used for building web app.
+- **Flask:** used for building web app.
 - **OpenCV:** Preprocessing video frames (e.g., extraction and resizing).
 
 <br>
